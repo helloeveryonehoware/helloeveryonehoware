@@ -2,7 +2,7 @@
 - 👀 I’m interested in Lua code
 - 🌱 I’m currently learning lua coding
 - 💞️ I’m looking to collaborate on roblox studio Lua
-- 📫 How to reach me don't worry about my email I just made a random one it's 123goliveiscool123123@gmail.com
+- 📫 How to reach me 123goliveiscool123123@gmail.com
 
 <!---
 helloeveryonehoware/helloeveryonehoware is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
